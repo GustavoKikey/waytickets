@@ -4,6 +4,7 @@
         "stdlib.h": "c",
         "desenha_mesas.c": "cpp",
         "desenha_palco.c": "cpp",
-        "desenha.h": "c"
+        "desenha.h": "c",
+        "mesa.h": "c"
     }
 }

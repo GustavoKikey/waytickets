@@ -5,8 +5,7 @@
     "tasks": [
         {
             "label": "build",
-            // "command": "gcc main.c -o compile && ./compile",
-            "command": "gcc *.c -o compile && ./compile",
+            "command": "gcc *.c */**.c -o compile && ./compile",
             "type": "shell",
             "group": {
                 "kind": "build",
